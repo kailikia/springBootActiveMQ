@@ -11,7 +11,6 @@ public class SmsModel {
 	}
 		
 	public SmsModel(int phone, String body) {
-		super();
 		this.phone = phone;
 		this.body = body;
 	}
